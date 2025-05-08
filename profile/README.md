@@ -4,11 +4,19 @@ Welcome to my attempt at organising and archiving my life. Here you will find as
 
 ## Projects: [Ennor][Projects]
 
+Everything I am actively working on, including programs, papers, presentations, tasks, and any other short-term goals I have. In a pure [PARA][Wiki - PARA] setup, this should only contain things which can be "completed", however I include here anything which I am actively *using*, even when I'm no longer developing or maintaining it.
+
 ## Areas: [Numenor][Areas]
+
+Notes, tasks, reminders, and documentation for long-term or ongoing goals and responsibilities I have throughout my life.
 
 ## Resources: [Belegaer][Resources]
 
+This is where I store files, data, templates, and any other products which may be useful for current or future [Projects] and [Areas].
+
 ## Archive: [Aman][Archive]
+
+When a [Project][Projects] has been completed, an [Area][Areas] is no longer relevant, or a [Resource][Resources] becomes deprecated or defunct, they are moved here. This avoids losing information but ensures everying within the preceding categories remains relevant.
 
 ---
 
