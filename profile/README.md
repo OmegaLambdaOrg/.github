@@ -1,4 +1,4 @@
-# Ilmen
+# [Ilmen][PARA]
 
 Welcome to my attempt at organising and archiving my life. Here you will find as close to a complete record of who I am and what I do as I am willing to share with anonymous dwellers on the internet (such as yourself). This repository is organised into a [PARA][Wiki - PARA]-like structure, which distributes topics into four categories:
 
@@ -16,6 +16,7 @@ Welcome to my attempt at organising and archiving my life. Here you will find as
 
 [Ilmen][Wiki - Ilmen] is the layer of the atmosphere around [Arda][Wiki - Arda] in which the stars are placed. When traveling along the [Straight Road][Wiki - Straight Road], one must traverse [Ilmen][Wiki - Ilmen] to reach [Aman][Wiki - Aman].
 
+[PARA]: https://github.com/OmegaLambdaOrg/Ilmen
 [Projects]: https://github.com/OmegaLambdaOrg/Ennor
 [Areas]: https://github.com/OmegaLambdaOrg/Numenor
 [Resources]: https://github.com/OmegaLambdaOrg/Belegaer
